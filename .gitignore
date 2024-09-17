@@ -3,3 +3,5 @@ doxygen_warnings.log
 doc/html
 
 doc.html
+
+*.DS_Store
