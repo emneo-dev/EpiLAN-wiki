@@ -3,7 +3,7 @@ DOXYFILE_ENCODING      = UTF-8
 
 PROJECT_NAME           = EpiLAN
 
-PROJECT_NUMBER         = 1.0
+PROJECT_NUMBER         = BETA-0.2
 
 PROJECT_BRIEF          =
 
