@@ -52,6 +52,8 @@ La structure entourant l'Overchest peut être détruite si vous le souhaitez, ma
 
 Vous pouvez vous éloigner autant que vous le souhaitez, notez simplement que la première équipe qui pose sa base remporte des points bonus.
 
+![Screenshot de la structure autogénérée lors de la pose de la base (équipes rouge/bleu)](base.png)
+
 
 @subsubsection game_progression_subsec Progression
 
