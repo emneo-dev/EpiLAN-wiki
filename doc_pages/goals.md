@@ -57,6 +57,15 @@ L'équipe qui a le plus beau build, le plus grand build, ou le build le plus ori
 
 @subsubsection trophies_sec Trophées
 
+Vous devez construire une salle des trophées ! C'est un objectif de build !
+
+Cette salle vous permettra d'exposer certains items qui valent des points.
+
+ATTENTION !! L'attribution des points de trophées se fait à la fin de la partie, l'équipe adverse pourra tenter de vous les voler.
+
+Essayez de construire cette salle dans des chunks claims, et sécurisez-la !
+
+[Plus d'informations sur les claims](leader_page.html#claims_sec)
 
 @subsection special_cases_sec Cas particuliers
 
