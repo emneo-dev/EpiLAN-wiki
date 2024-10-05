@@ -51,7 +51,7 @@ Pensez à eux si à l'avenir vous souhaitez host votre propre serveur Minecraft 
 
 Ils sont pour le moment en beta fermée, sautez-leur dessus dès que leur service sera public, vous ne serez pas déçus !
 
-![Logo Les Bras Cassés](logo_LBC.png)
+![](logo_LBC.png)
 
 Un grand merci à tous les beta testeurs qui ont participé à l'élaboration du jeu, et qui ont permis de le rendre plus stable et plus fun.
 
