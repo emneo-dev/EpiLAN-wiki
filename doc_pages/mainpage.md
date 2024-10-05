@@ -39,7 +39,21 @@ N'hésitez pas à les contacter pour les remercier, leur donner des retours sur 
 - [Lionel](https://www.youtube.com/@caribou81) - Game Designer
 - [Raphaël MERCIÉ](https://www.linkedin.com/in/rapha%C3%ABl-merci%C3%A9-61362a22a/) - Développeur
 - [KaitoMomota](https://www.github.com/KaitoMomota) - Développeur
+- [Alexandre FLION](https://www.linkedin.com/in/alexandre-flion/?originalSubdomain=fr) - Développeur
 - [Charles RETOUT](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Sound Designer
+- [Timéo RAGAZZINI](https://www.instagram.com/titi.raga/) - Graphiste
+
+Un remerciement tout particulier à [Matis MOUNIC](https://lesbrascasses.net/), Fondateur de [Les Bras Cassés](https://lesbrascasses.net/), de nous permettre d'héberger le serveur, et de nous soutenir dans ce projet.
+
+Merci ainsi à notre partenaire [Les Bras Cassés](https://lesbrascasses.net/), service d'hébergement de serveurs de jeux.
+
+Pensez à eux si à l'avenir vous souhaitez host votre propre serveur Minecraft ou autre, ils sont très compétents et proposent des offres très intéressantes.
+
+Ils sont pour le moment en beta fermée, sautez-leur dessus dès que leur service sera public, vous ne serez pas déçus !
+
+![Logo Les Bras Cassés](logo_LBC.png)
+
+Un grand merci à tous les beta testeurs qui ont participé à l'élaboration du jeu, et qui ont permis de le rendre plus stable et plus fun.
 
 Nous restons ouverts aux participations spontanées, n'hésite pas à venir nous contacter sur Discord si tu souhaites participer au développement du projet.
 
