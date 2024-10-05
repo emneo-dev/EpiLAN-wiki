@@ -1,4 +1,4 @@
-# EpiLAN-wiki {#RFC}
+# EpiLAN-Wiki
 
 ## Generate the documentation
 
