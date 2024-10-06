@@ -36,20 +36,15 @@ Il est très important de comprendre que ce projet a été créé par des gens q
 
 N'hésitez pas à les contacter pour les remercier, leur donner des retours sur le jeu, ou faire appel à eux pour des projets professionnels.
 
-- [Lionel](https://www.youtube.com/@caribou81) - Game Designer
+- [Lionel BENAZECH](https://www.youtube.com/@caribou81) - Game Designer
 - [Raphaël MERCIÉ](https://www.linkedin.com/in/rapha%C3%ABl-merci%C3%A9-61362a22a/) - Développeur
 - [KaitoMomota](https://www.github.com/KaitoMomota) - Développeur
-- [Alexandre FLION](https://www.linkedin.com/in/alexandre-flion/?originalSubdomain=fr) - Développeur
+- [Alexandre FLION](https://www.linkedin.com/in/alexandre-flion/) - Développeur
 - [Charles RETOUT](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Sound Designer
 - [Timéo RAGAZZINI](https://www.instagram.com/titi.raga/) - Graphiste
+- [Matis MOUNIC](https://lesbrascasses.net/) - Fondateur de [Les Bras Cassés](https://lesbrascasses.net/)
 
-Un remerciement tout particulier à [Matis MOUNIC](https://lesbrascasses.net/), Fondateur de [Les Bras Cassés](https://lesbrascasses.net/), de nous permettre d'héberger le serveur, et de nous soutenir dans ce projet.
-
-Merci ainsi à notre partenaire [Les Bras Cassés](https://lesbrascasses.net/), service d'hébergement de serveurs de jeux.
-
-Pensez à eux si à l'avenir vous souhaitez host votre propre serveur Minecraft ou autre, ils sont très compétents et proposent des offres très intéressantes.
-
-Ils sont pour le moment en beta fermée, sautez-leur dessus dès que leur service sera public, vous ne serez pas déçus !
+Merci à notre partenaire [Les Bras Cassés](https://lesbrascasses.net/), service d'hébergement de serveurs de jeux.
 
 ![](logo_LBC.png)
 

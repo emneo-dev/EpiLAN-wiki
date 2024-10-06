@@ -67,10 +67,16 @@ Vous ne pouvez pas non plus claim de chunks autour de structures minecraft:
 - End City
 - Pillager Outpost
 
-Les joueurs de l'équipe adverse ne peuvent pas détruire les blocks des chunks claim, même avec des explosifs.
+Les joueurs de l'équipe adverse ne peuvent pas détruire les blocks des chunks claim, ni les poser.
+
+Les explosions ne peuvent pas détruire les blocks des chunks claim, qu'elles soient causées par des creepers, des tnt, ou des joueurs.
+
+Seuls les Wither peuvent détruire les blocks des chunks claim, mais seulement par le contact; Son explosion ainsi que ses projectiles ne peuvent pas détruire les blocks des chunks claim.
 
 Ils ne pourront pas non plus ouvrir de coffres.
 
 Cependant, ils pourront interagir avec les boutons, leviers, portes, trappes, fours, entonnoirs.
 
 Pensez à bien protéger votre base pour éviter les intrusions avec des systèmes de redstone complexes.
+
+Le feu peut se propager dans les chunks claim, faites attention à ne pas mettre le feu à votre base.
